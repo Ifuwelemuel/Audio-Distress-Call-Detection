@@ -1,0 +1,20 @@
+# Data Processing & Math
+numpy
+pandas
+scipy
+# Machine Learning & Evaluation (for F1, Sensitivity, Precision, etc.)
+scikit-learn
+# Data Visualization (for Correlation Heatmaps)
+matplotlib
+seaborn
+# Deep Learning (for LSTM 100 and CNN 100 architectures)
+tensorflow
+bs4
+lxml
+tables
+pyyaml 
+h5py
+librosa
+matplotlib
+soundfile
+opencv-python

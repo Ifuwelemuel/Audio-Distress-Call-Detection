@@ -1,0 +1,6 @@
+# Virtual environment
+AI_ASSIGNMENT/
+# Data files
+Dataset/
+*.wav
+*.png
